@@ -35,11 +35,11 @@ CSS = f"""
   box-shadow: 0 6px 24px rgba(0,0,0,0.35);
 }}
 .scramble {{
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   font-weight: 700;
   letter-spacing: 0.15rem;
   text-align:center;
-  padding: 0.8rem;
+  padding: 1rem;
   border: 3px dashed {PRIMARY};
   border-radius: 12px;
   background: linear-gradient(135deg, {PRIMARY}, {ACCENT});
